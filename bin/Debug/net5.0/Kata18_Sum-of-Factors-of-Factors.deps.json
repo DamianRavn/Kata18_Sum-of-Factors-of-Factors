@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kata18_Sum-of-Factors-of-Factors/1.0.0": {
+        "runtime": {
+          "Kata18_Sum-of-Factors-of-Factors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kata18_Sum-of-Factors-of-Factors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

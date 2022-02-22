@@ -1,0 +1,16 @@
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.csproj.AssemblyReference.cache
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.AssemblyInfoInputs.cache
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.AssemblyInfo.cs
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.csproj.CoreCompileInputs.cache
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.exe
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.deps.json
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.runtimeconfig.json
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.runtimeconfig.dev.json
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.dll
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\ref\Kata18_Sum-of-Factors-of-Factors.dll
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\bin\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.pdb
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.dll
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\ref\Kata18_Sum-of-Factors-of-Factors.dll
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.pdb
+C:\Users\DragonaliasLaptop\Documents\GitProjects\Kata18_Sum-of-Factors-of-Factors\obj\Debug\net5.0\Kata18_Sum-of-Factors-of-Factors.genruntimeconfig.cache
